@@ -1,4 +1,4 @@
-#Charles Cohen
+#OC
 #7/12/22
 #Calculator.py
 #Create Calculator
