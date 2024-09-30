@@ -1,6 +1,6 @@
 #Charles Cohen
 #7/12/22
-#Cohen-Calculator.py
+#Calculator.py
 #Create Calculator
 
 operator= input("Please enter: add, subtract, multiply, or divide: ")
